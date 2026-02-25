@@ -50,3 +50,5 @@ yarn-error.log*
 
 # Frontend build
 dist/
+
+.claude
