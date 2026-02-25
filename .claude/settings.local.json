@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create vite@latest:*)",
+      "Bash(npm install:*)",
+      "Bash(sudo rm -rf:*)",
+      "Bash(npm cache clean:*)",
+      "Bash(npm config set cache /Users/rayhu/.npm-temp-cache --location=user)",
+      "Bash(npm run build)",
+      "Bash(brew install:*)",
+      "Bash(uv venv:*)",
+      "Bash(uv pip install:*)",
+      "Bash(pkill:*)",
+      "Bash(curl:*)",
+      "Bash(lsof:*)",
+      "WebFetch(domain:help.aliyun.com)",
+      "WebSearch"
+    ]
+  }
+}
